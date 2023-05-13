@@ -4,9 +4,9 @@ using namespace std;
 
 int main( void )
 {
-	float a = 3.3f;
+	float a = 3.0f + 2.0f;
 
-	cout << " 나는 테스트 코드입니다. " << endl;
+	cout << " function 원격 저장소 브랜치" << endl;
 
 	cout << a + a << endl;
 
